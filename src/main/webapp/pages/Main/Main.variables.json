@@ -105,7 +105,6 @@
     "properties" : [ ],
     "relatedTables" : [ ],
     "filterFields" : { },
-    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails",
     "filterExpressions" : {
       "condition" : "AND",
       "rules" : [ {
@@ -115,7 +114,8 @@
         "matchMode" : "startignorecase",
         "required" : false
       } ]
-    }
+    },
+    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails"
   },
   "Laptops_List" : {
     "_id" : "wm-Laptops_List-wm.LiveVariable-1474372260708",
@@ -222,7 +222,6 @@
     "properties" : [ ],
     "relatedTables" : [ ],
     "filterFields" : { },
-    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails",
     "filterExpressions" : {
       "condition" : "AND",
       "rules" : [ {
@@ -232,7 +231,8 @@
         "matchMode" : "startignorecase",
         "required" : false
       } ]
-    }
+    },
+    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails"
   },
   "Main_To_Products" : {
     "_id" : "wm-Main_To_Products-wm.NavigationVariable-1474535496397",
@@ -393,7 +393,6 @@
     "properties" : [ ],
     "relatedTables" : [ ],
     "filterFields" : { },
-    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails",
     "filterExpressions" : {
       "condition" : "AND",
       "rules" : [ {
@@ -403,7 +402,8 @@
         "matchMode" : "startignorecase",
         "required" : false
       } ]
-    }
+    },
+    "package" : "com.wavemaker.sampleapps.wavekart.eshopping.ProductDetails"
   },
   "Static_Var_Banners_Carousel" : {
     "_id" : "wm-Static_Var_Banners_Carousel-wm.Variable-1484038122289",
